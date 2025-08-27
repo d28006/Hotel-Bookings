@@ -54,7 +54,7 @@ Visibility into guest booking patterns and operational requirements (e.g., parki
 
 Insights for strategic decisions on pricing, discounts, and infrastructure planning
 
-• Walkthrough of Key Visuals
+6. Walkthrough of Key Visuals
 
 Top KPIs Panel
 Displays Revenue ($29.13M), ADR ($104.44), Total Nights Booked (367.94K), Avg. Discount (25.8%), and Car Spaces Required (8.69K).
@@ -76,7 +76,7 @@ Revenue Share by Hotel Type (Donut Chart)
 City Hotels: $15.05M (51.68%)
 Resort Hotels: $14.07M (48.32%)
 
-• Business Impact & Insights
+7. Business Impact & Insights
 
 📉 COVID-19 Impact: 2020 revenue dropped significantly from 2019 highs, highlighting the pandemic’s effect.
 📊 Balanced Contribution: Both City and Resort hotels contribute nearly equally to total revenue, showing a diversified portfolio.
